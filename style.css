@@ -1,0 +1,43 @@
+div {
+  width: 300px;
+  background-color: rgb(13, 166, 172);
+}
+table {
+  border-collapse: collapse;
+  border: 3px solid green;
+  background-color: rgb(8, 181, 224);
+  width: 400px;
+  height: 150px;
+  color: brown;
+}
+tr {
+  border: 3px solid green;
+}
+
+th {
+  border: 3px solid green;
+}
+td {
+  border: 3px solid green;
+}
+video {
+  width: 560px;
+  height: 315px;
+}
+.heading_main {
+  color: red;
+}
+.heading_table {
+  color: red;
+}
+.heading_video {
+  color: red;
+}
+.video {
+  background-color: aqua;
+  width: 600px;
+}
+.table {
+  background-color: black;
+  width: 550px;
+}
